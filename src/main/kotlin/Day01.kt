@@ -35,6 +35,7 @@ class Day01 : GenericDay(1, false) {
         return handleEdgeCases(value, isFirst)
     }
 
+    // Not proud of this but I have better things to do
     private fun handleEdgeCases(value: String, isFirst: Boolean): Number? {
         return when (value) {
             "twone" -> if(isFirst) Number.two else Number.one
