@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec4f12b1-83ec-4c05-942b-e6854baa988a" name="Changes" comment="day01">
-      <change afterPath="$PROJECT_DIR$/input/aoc02test.txt" afterDir="false" />
+    <list default="true" id="ec4f12b1-83ec-4c05-942b-e6854baa988a" name="Changes" comment="day02">
+      <change afterPath="$PROJECT_DIR$/input/aoc03test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
@@ -58,7 +58,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/pierremonier/Code/AdventOfCode2023/input",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -69,7 +68,7 @@
       <recent name="$PROJECT_DIR$/input" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.AdventOfCode2023 [run]">
+  <component name="RunManager" selected="Kotlin.MainKt">
     <configuration name="AdventOfCode2023 [generateDay]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -123,9 +122,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.AdventOfCode2023 [run]" />
-        <item itemvalue="Gradle.AdventOfCode2023 [generateDay]" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Gradle.AdventOfCode2023 [generateDay]" />
+        <item itemvalue="Gradle.AdventOfCode2023 [run]" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +137,15 @@
       <option name="presentableId" value="Default" />
       <updated>1701424847284</updated>
     </task>
+    <task id="LOCAL-00001" summary="day02">
+      <option name="closed" value="true" />
+      <created>1701625098364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701625098364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +161,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day01" />
-    <option name="LAST_COMMIT_MESSAGE" value="day01" />
+    <MESSAGE value="day02" />
+    <option name="LAST_COMMIT_MESSAGE" value="day02" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Day03.kt</url>
+          <line>122</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Day03.kt</url>
+          <line>115</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="((java.util.ArrayList)partNumbers).get(5)" custom="java.util.ArrayList" />
+        <watch expression="((java.util.ArrayList)partNumbers).get(5)" custom="java.util.ArrayList" />
+        <watch expression="((java.util.ArrayList)partNumbers).get(3)" custom="java.util.ArrayList" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
