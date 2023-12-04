@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec4f12b1-83ec-4c05-942b-e6854baa988a" name="Changes" comment="day02">
-      <change afterPath="$PROJECT_DIR$/input/aoc03test.txt" afterDir="false" />
+    <list default="true" id="ec4f12b1-83ec-4c05-942b-e6854baa988a" name="Changes" comment="day03">
+      <change afterPath="$PROJECT_DIR$/input/aoc04test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
@@ -145,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701625098364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day03">
+      <option name="closed" value="true" />
+      <created>1701641141150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701641141150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day03">
+      <option name="closed" value="true" />
+      <created>1701641165878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701641165878</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,30 +178,28 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day01" />
     <MESSAGE value="day02" />
-    <option name="LAST_COMMIT_MESSAGE" value="day02" />
+    <MESSAGE value="day03" />
+    <option name="LAST_COMMIT_MESSAGE" value="day03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Day03.kt</url>
-          <line>122</line>
-          <option name="timeStamp" value="25" />
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Day04.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Day03.kt</url>
-          <line>115</line>
-          <option name="timeStamp" value="26" />
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Day04.kt</url>
+          <line>24</line>
+          <properties class="Day04.Game" method="getPoints">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="JetRunConfigurationType">
-        <watch expression="((java.util.ArrayList)partNumbers).get(5)" custom="java.util.ArrayList" />
-        <watch expression="((java.util.ArrayList)partNumbers).get(5)" custom="java.util.ArrayList" />
-        <watch expression="((java.util.ArrayList)partNumbers).get(3)" custom="java.util.ArrayList" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
