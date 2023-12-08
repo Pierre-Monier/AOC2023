@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec4f12b1-83ec-4c05-942b-e6854baa988a" name="Changes" comment="day05">
-      <change afterPath="$PROJECT_DIR$/input/aoc06test.txt" afterDir="false" />
+    <list default="true" id="ec4f12b1-83ec-4c05-942b-e6854baa988a" name="Changes" comment="day06">
+      <change afterPath="$PROJECT_DIR$/input/aoc07test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
@@ -177,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702025547650</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="day06">
+      <option name="closed" value="true" />
+      <created>1702027440264</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702027440264</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,7 +204,8 @@
     <MESSAGE value="day02" />
     <MESSAGE value="day03" />
     <MESSAGE value="day05" />
-    <option name="LAST_COMMIT_MESSAGE" value="day05" />
+    <MESSAGE value="day06" />
+    <option name="LAST_COMMIT_MESSAGE" value="day06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -207,9 +216,9 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Day06.kt</url>
-          <line>27</line>
-          <option name="timeStamp" value="62" />
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Day07.kt</url>
+          <line>75</line>
+          <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/main/kotlin/Day04.kt</url>
