@@ -33,7 +33,7 @@ tasks.register("generateDay") {
     val session = "53616c7465645f5f2f6e0df735a752c6e77fee338ea56bdb58ab140584c5a0ed20760a559faa550050e052bbc520a2662da3608d4842219331648c602602b415"
 
     val folder = "src/main/kotlin"
-    val dayNumber = "04"
+    val dayNumber = "06"
     val dayInt = dayNumber.toInt()
     val dayFileName = "$folder/Day$dayNumber.kt"
     val dayFileContent = """
